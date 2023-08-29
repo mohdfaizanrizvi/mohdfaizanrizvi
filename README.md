@@ -1,4 +1,7 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+- Perfect Loop
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+<br><br>
+
 <h1 align="center">Hi 👋, I'm Mohd Faizan Rizvi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
