@@ -1,6 +1,9 @@
 - Perfect Loop
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 <br><br>
+- Awesome Workspace
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<br><br>
 
 <h1 align="center">Hi 👋, I'm Mohd Faizan Rizvi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
