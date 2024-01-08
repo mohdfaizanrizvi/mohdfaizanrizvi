@@ -11,6 +11,16 @@
 <img src="https://img.shields.io/badge/linkedin:  faizan_rizvi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/mohd-faizan-rizvi-2b9551252/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/linkedin:faizan_rizvi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+    style="margin-bottom: 5px;"
+  />
+</a>
+
+
 <br>
 
 <!-- gmail -->
