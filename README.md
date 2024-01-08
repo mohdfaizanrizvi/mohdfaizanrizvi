@@ -8,15 +8,42 @@
 
 <!-- Linkedin -->
 <a href="https://www.linkedin.com/in/mohd-faizan-rizvi-2b9551252/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  faizan_rizvi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+  <img
+    src="https://img.shields.io/badge/linkedin:faizan_rizvi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+    style="margin-bottom: 5px; font-size: 14px;"
+
+  />
 </a>
+
+<style>
+  @media only screen and (max-width: 600px) {
+    img {
+      font-size: 12px; /* Adjust the font size for smaller screens */
+    }
+  }
+</style>
+
 
 <br>
 
 <!-- gmail -->
 <a href="mailto:faizanrizvi1989@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  faizan_rizvi-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+  <img
+    src="https://img.shields.io/badge/gmail:faizan_rizvi-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+    style="margin-bottom: 5px; font-size: 14px;"
+  />
 </a>
+
+<style>
+  @media only screen and (max-width: 600px) {
+    img {
+      font-size: 12px; /* Adjust the font size for smaller screens */
+    }
+  }
+</style>
+
 
 <br>
 </div>
