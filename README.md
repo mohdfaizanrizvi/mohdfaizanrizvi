@@ -16,15 +16,6 @@
   />
 </a>
 
-<style>
-  @media only screen and (max-width: 600px) {
-    img {
-      font-size: 12px; /* Adjust the font size for smaller screens */
-    }
-  }
-</style>
-
-
 <br>
 
 <!-- gmail -->
@@ -35,14 +26,6 @@
     style="margin-bottom: 5px; font-size: 14px;"
   />
 </a>
-
-<style>
-  @media only screen and (max-width: 600px) {
-    img {
-      font-size: 12px; /* Adjust the font size for smaller screens */
-    }
-  }
-</style>
 
 
 <br>
